@@ -1,0 +1,15 @@
+C:\Users\MAHDI\Desktop\testC#\bin\Debug\net10.0\testC#.exe
+C:\Users\MAHDI\Desktop\testC#\bin\Debug\net10.0\testC#.deps.json
+C:\Users\MAHDI\Desktop\testC#\bin\Debug\net10.0\testC#.runtimeconfig.json
+C:\Users\MAHDI\Desktop\testC#\bin\Debug\net10.0\testC#.dll
+C:\Users\MAHDI\Desktop\testC#\bin\Debug\net10.0\testC#.pdb
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.AssemblyInfoInputs.cache
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.AssemblyInfo.cs
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.csproj.CoreCompileInputs.cache
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.sourcelink.json
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.dll
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\refint\testC#.dll
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.pdb
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\testC#.genruntimeconfig.cache
+C:\Users\MAHDI\Desktop\testC#\obj\Debug\net10.0\ref\testC#.dll
